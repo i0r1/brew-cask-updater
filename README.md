@@ -3,8 +3,8 @@ Updates your brew cask since 'brew upgrade' fails to update all of your cask app
 
 Usage:
 
-View outdated packages
-./updater.sh
-
-Update the outdated packages by passing 'up' as your first argument 
+Update the outdated packages running
 ./updater.sh up
+
+View outdated packages pass 'ls' as parameter 
+./updater.sh ls
